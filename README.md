@@ -1,2 +1,3 @@
 # Growth-Natives-Assignment
-Student side typing box in ReactJS/Angular 
+
+Don't know anything about javascript frameworks (react and node) .Never built any applictaion using javascript
